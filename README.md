@@ -1,20 +1,38 @@
-# JobGuard-OSINT By NED MASTERS STUDENT IN IPS
-"JobGuard-Osint is an Open-Source Intelligence (OSINT) toolkit designed to empower users in verifying job opportunities and identifying potential job scams. This repository provides tools, scripts, and resources for conducting OSINT investigations to ensure the authenticity of job offer. Whether you're a cybersecurity enthusiast, investigator, or someone cautious about employment fraud, this toolkit aims to assist you in safeguarding your career journey. Join us in the fight against job scams and contribute to enhancing the security of the employment landscape.
+# JobGuard - OSINT Tool To Crack the JOBS_SCAM By NED Masters Student
 
-![Image description](<img width="959" alt="Screen View" src="https://github.com/Hassan125/JobGuard-OSINT/assets/5916673/1f2b3547-4165-490d-9daa-e6df4bba3bba">)
+VerifyJob-Osint is an Open-Source Intelligence (OSINT) toolkit designed to empower users in verifying job opportunities and identifying potential job scams. This repository provides tools, scripts, and resources for conducting OSINT investigations to ensure the authenticity of job offers. Whether you're a cybersecurity enthusiast, investigator, or someone cautious about employment fraud, this toolkit aims to assist you in safeguarding your career journey. Join us in the fight against job scams and contribute to enhancing the security of the employment landscape.
 
-[Applications]([https://example.com](https://github.com/Hassan125/JobGuard-OSINT/edit/main/README.md))
-The majority of OSINT tools no longer come pre-packaged with the VM. There is an option to download them via a script on the desktop though. This keeps the size of the release small enough to build and host on Github. If you want to install the tools in the script then:
+# Login Credentials
 
+* Username: osint
+* Password: osint
 
+# Build Instructions
 
-**2. Installation:**
+Building from source or modifying the released version is not necessary, as the required tools for Job-OSINT are already included.
 
-```markdown
-Open a terminal
-Navigate to the Desktop folder
-Execute the install script with ./install-tools.sh
-```
+# Applications
+
+To keep the release size manageable, most OSINT tools are not pre-installed. However, you can download them using a script on the desktop:
+
+1. Open a terminal.
+2. Navigate to the Desktop folder.
+3. Execute the install script: `./install-tools.sh`
+
+# Setup (for building from source)
+
+This build has only been tested on a pre-existing Kali environment, as recommended by Offensive Security.
+
+1. Clone the repository: `git clone https://github.com/tracelabs/tlosint-live.git`
+2. Navigate to the repository directory: `cd tl-osint`
+3. Run the build script: `sudo ./build_tracelabsiso_recipe.sh`
+
+If successful, a .iso file will be created in `/opt/live-build-config/images`. Use this for live boot, VM installation, or conversion to an OVA file (see https://www.kali.org/docs/virtualization/converting-to-ova/).
+
+# OVA Download
+
+Download the pre-built OVA file for easy setup: https://www.tracelabs.org/initiatives/osint-vm, After installing the tool, use this data to add optional tools so that the JobGuard Powerful toolkit can be use to Crack the Scammers Network
+
 
 ```markdown
 Browsers
