@@ -2,6 +2,9 @@
 
 VerifyJob-Osint is an Open-Source Intelligence (OSINT) toolkit designed to empower users in verifying job opportunities and identifying potential job scams. This repository provides tools, scripts, and resources for conducting OSINT investigations to ensure the authenticity of job offers. Whether you're a cybersecurity enthusiast, investigator, or someone cautious about employment fraud, this toolkit aims to assist you in safeguarding your career journey. Join us in the fight against job scams and contribute to enhancing the security of the employment landscape.
 
+<img width="959" alt="Screen View" src="https://github.com/Hassan125/JobGuard-OSINT/assets/5916673/fa5d6e2d-94ea-47d2-a700-f8713441d6a7">
+
+
 # Login Credentials
 
 * Username: osint
