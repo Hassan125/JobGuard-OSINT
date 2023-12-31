@@ -8,6 +8,7 @@ Group Member Names:
 3. Shahroze Hassan
 4. Soofia Khan
 
+# Desktop - JobGuard - OSINT
 <img width="959" alt="Screen View - Copy" src="https://github.com/Hassan125/JobGuard-OSINT/assets/5916673/2498c64a-c1f4-4e58-9c29-e9c67e30138b">
 
 
