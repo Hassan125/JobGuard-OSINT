@@ -4,6 +4,8 @@ VerifyJob-Osint is an Open-Source Intelligence (OSINT) toolkit designed to empow
 
 <img width="959" alt="Screen View" src="https://github.com/Hassan125/JobGuard-OSINT/assets/5916673/fa5d6e2d-94ea-47d2-a700-f8713441d6a7">
 
+<img width="959" alt="Screen View - Copy" src="https://github.com/Hassan125/JobGuard-OSINT/assets/5916673/2498c64a-c1f4-4e58-9c29-e9c67e30138b">
+
 
 # Login Credentials
 
