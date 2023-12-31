@@ -14,77 +14,58 @@ The majority of OSINT tools no longer come pre-packaged with the VM. There is an
 Open a terminal
 Navigate to the Desktop folder
 Execute the install script with ./install-tools.sh
-Resources
 ```
-Trace Labs OSINT Field Manual
-Trace Labs CTF Contestant Guide
-Reporting
 
-TJ Null's OSINT Joplin template
+```markdown
 Browsers
-
+Google Chrome
 Firefox ESR
 Tor Browser
-Data Analysis
+```
 
+```markdown
+Data Analysis
 DumpsterDiver
 Exifprobe
 Exifscan (Private)
 Stegosuite
-Domains
+```
 
+```markdown
+Domains
 Domainfy (OSRFramework)
 Sublist3r
-Downloaders
 
-Browse Mirrored Websites
-Metagoofil
-Spiderpig
-WebHTTrack Website Copier
-Youtube-DL
+```markdown
 Email
-
 Buster
-Checkfy (OSRFramework)
 Infoga
-Mailfy (OSRFramework)
 theHarvester
 h8mail
-Frameworks
+```
 
+```markdown
+Frameworks
 Little Brother (Archived)
-OSRFramework
 sn0int
 Spiderfoot
 Maltego
 OnionSearch
-Phone Numbers
+```
 
-Phonefy (OSRFramework)
+```markdown
+Phone Numbers
 PhoneInfoga
 Social Media
+```
 
+```markdown
 Instaloader
-Twint (Archived)
-Searchfy (OSRFramework)
-Tiktok Scraper
-Twayback
 Usernames
+```
 
-Alias Generator (OSRFramework)
-Sherlock
-Usufy (OSRFramework)
+```markdown
 Other Tools
-
-Photon
 Sherlock
 Shodan
-Joplin
-Configuration Settings
-Firefox
-
-Delete cookies/history on shutdown
-Block geo tracking
-Block mic/camera detection
-Block Firefox tracking
-Preload OSINT Bookmarks
+```
