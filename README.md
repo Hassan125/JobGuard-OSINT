@@ -46,7 +46,7 @@ Download the pre-built OVA file for easy setup: https://www.tracelabs.org/initia
 
 ```markdown 
 Browsers
-Google Chrome : `(https://support.google.com/chrome/a/answer/9025903?hl=en)`
+Google Chrome : `https://support.google.com/chrome/a/answer/9025903?hl=en`
 Firefox ESR
 Tor Browser
 ```
