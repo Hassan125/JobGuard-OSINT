@@ -88,3 +88,7 @@ Other Tools
 Sherlock
 Shodan
 ```
+
+# References:
+https://docs.kali.org/development/live-build-a-custom-kali-iso
+https://www.tracelabs.org
