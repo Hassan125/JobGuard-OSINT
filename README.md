@@ -44,9 +44,9 @@ If successful, a .iso file will be created in `/opt/live-build-config/images`. U
 Download the pre-built OVA file for easy setup: https://www.tracelabs.org/initiatives/osint-vm, After installing the tool, use this data to add optional tools so that the JobGuard Powerful toolkit can be use to Crack the Scammers Network to use the toolkit run the build script directly: `sudo ./JobGuard-OSINT-tools.sh`
 
 
-```markdown
+```markdown 
 Browsers
-Google Chrome
+Google Chrome : `[git clone https://github.com/Hassan125/JobGuard-OSINT.git](https://support.google.com/chrome/a/answer/9025903?hl=en)`
 Firefox ESR
 Tor Browser
 ```
