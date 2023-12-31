@@ -23,15 +23,15 @@ To keep the release size manageable, most OSINT tools are not pre-installed. How
 
 This build has only been tested on a pre-existing Kali environment, as recommended by Offensive Security.
 
-1. Clone the repository: `git clone https://github.com/tracelabs/tlosint-live.git`
-2. Navigate to the repository directory: `cd tl-osint`
-3. Run the build script: `sudo ./build_tracelabsiso_recipe.sh`
+1. Clone the repository: `git clone https://github.com/Hassan125/JobGuard-OSINT.git`
+2. Navigate to the repository directory: `cd JobGuard-OSINT`
+3. Run the build script: `sudo ./JobGuard-OSINT-tools.sh`
 
 If successful, a .iso file will be created in `/opt/live-build-config/images`. Use this for live boot, VM installation, or conversion to an OVA file (see https://www.kali.org/docs/virtualization/converting-to-ova/).
 
 # OVA Download
 
-Download the pre-built OVA file for easy setup: https://www.tracelabs.org/initiatives/osint-vm, After installing the tool, use this data to add optional tools so that the JobGuard Powerful toolkit can be use to Crack the Scammers Network
+Download the pre-built OVA file for easy setup: https://www.tracelabs.org/initiatives/osint-vm, After installing the tool, use this data to add optional tools so that the JobGuard Powerful toolkit can be use to Crack the Scammers Network to use the toolkit run the build script directly: `sudo ./JobGuard-OSINT-tools.sh`
 
 
 ```markdown
