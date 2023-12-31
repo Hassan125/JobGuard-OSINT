@@ -62,29 +62,29 @@ Stegosuite
 ```markdown
 Domains
 Domainfy (OSRFramework)
-Sublist3r
+Sublist3r https://github.com/aboul3la/Sublist3r
 ```
 
 ```markdown
 Email
-Buster
+Buster https://github.com/KajanM/DirBuster
 Infoga
-theHarvester
-h8mail
+theHarvester https://github.com/harvester/harvester
+h8mail https://github.com/khast3x/h8mail
 ```
 
 ```markdown
 Frameworks
-Little Brother (Archived)
+Little Brother https://github.com/lulz3xploit/LittleBrother
 sn0int
-Spiderfoot
+Spiderfoot https://github.com/smicallef/spiderfoot
 Maltego
 OnionSearch
 ```
 
 ```markdown
 Phone Numbers
-PhoneInfoga
+PhoneInfoga https://github.com/sundowndev/phoneinfoga
 Social Media
 ```
 
@@ -96,7 +96,7 @@ Usernames
 ```markdown
 Other Tools
 Sherlock
-Shodan
+Shodan https://github.com/topics/shodan
 ```
 
 # References:
